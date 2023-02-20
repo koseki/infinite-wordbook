@@ -1,6 +1,6 @@
 # infinite-wordbook
 
-Pickup some (default 3) words form a text file and generate an sentence using all of the words.
+Pick up some (default 3) words from a text file and generate a sentence using all of the words.
 
 ```
 $ npm install
